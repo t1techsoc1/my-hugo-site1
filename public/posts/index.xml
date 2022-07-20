@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jul 2022 12:00:06 +0530</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating t1trendze from shopify to Hugo</title>
+      <link>/posts/migrationi-t1trendze-from-shopify-to-hugo/</link>
+      <pubDate>Wed, 20 Jul 2022 12:00:06 +0530</pubDate>
+      
+      <guid>/posts/migrationi-t1trendze-from-shopify-to-hugo/</guid>
+      <description>This is to give notification to Migrating t1trendze from shopify to Hugo</description>
+    </item>
+    
+    <item>
+      <title>Long Ride Tips</title>
+      <link>/posts/long-ride-tips/</link>
+      <pubDate>Sun, 23 Jan 2022 12:00:06 +0530</pubDate>
+      
+      <guid>/posts/long-ride-tips/</guid>
+      <description>Things to consider while going for a long ride in Royal Enfield
+This guide helps you to get awareness about preparing yourself to go for a long bike ride and of course bike rides means it is meant to be a mixture of enjoyable adventurous memorable experience for life.
+Bike condition &amp;amp; Spares:
+Ensure the bike is serviced at the authorized Royal Enfield service center. You can get a list of authorized Royal Enfield location wise in the below link.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Mon, 06 Dec 2021 15:49:07 +0530</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>srekandan 22nd Jan 2022</description>
+    </item>
+    
+  </channel>
+</rss>

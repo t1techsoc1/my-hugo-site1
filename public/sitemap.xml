@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/posts/migrationi-t1trendze-from-shopify-to-hugo/</loc>
+    <lastmod>2022-07-20T12:00:06+05:30</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-07-20T12:00:06+05:30</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-07-20T12:00:06+05:30</lastmod>
+  </url><url>
+    <loc>/posts/long-ride-tips/</loc>
+    <lastmod>2022-01-23T12:00:06+05:30</lastmod>
+  </url><url>
+    <loc>/posts/hello-world/</loc>
+    <lastmod>2021-12-06T15:49:07+05:30</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url>
+</urlset>
