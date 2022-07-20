@@ -4,7 +4,7 @@
     "tags": ["Mens tshirt"],
     "categories": ["Round neck half sleeves tshirt"],
     "images" : ["tshirts/green.jpg"],
-    "thumbnailImage": "img/azure-blue-de-stijl-bedside-retro-light-with-black-ring/thumbnail.jpg",
+    "thumbnailImage": "tshirts/green_thumbnail.jpg",
     "actualPrice": null,
     "comparePrice": null,
     "inStock": null,
