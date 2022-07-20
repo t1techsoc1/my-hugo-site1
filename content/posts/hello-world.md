@@ -9,5 +9,6 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = false
+menu = "manimenu"
 +++
 srekandan 22nd Jan 2022
